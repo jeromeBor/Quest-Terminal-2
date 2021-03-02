@@ -22,61 +22,8 @@
 
 --------------------------------
 
- mkdir quests
-   62  pwd
-   63  ls
-   64  mkdir -p quests/shell/vegetabkes quest/shell/fruits
-   65  ls
-   66  mkdir quest/shell/remove-me quest/shell/delete-me
-   67  ls quest/shel
-   68  ls quest/shell
-   69  rmdir quests/shell/remove-me quests/shell/delete-me
-   70  rmdir quest/shell/remove-me quest/shell/delete-me
-   71  ls
-   72  ls shell
-   73  ls quest/shell
-   74  ls quests
-   75  rmdir quest
-   76  ls quets
-   77  ls quests
-   78  ls quests/shell
-   79  ls quests/shell/vegetabkes
-   80  rmdir quests/shell/vegetabkes
-   81  rmdir quests/shell
-   82  rmdir quests
-   83  ls
-   84  cd ~/quest/shell
-   85  touche apple
-   86  touch apple
-   87  touch apricot
-   88  touch carrot parsnip cauliflower courgette
-   89  ls
-   90  ls -l.bashrc
-   91  ls -l ~/.bashrc
-   92  cp apple banana
-   93  cp apple fruits/orange
-   94  ls ; ls fruits
-   95  cp ap* banana fruits
-   96  ls fruits
-   97  cp -R fruits copy-of-fruits
-   98  ls
-   99  ls /copy-of-fruits
-  100  ls copy-of-fruits
-  101  ls fruits
-  102  cp -R fruits copy-of-fruits /tmp/
-  103  ls tmp
-  104  find
-  105  rm ap* banana
-  106  rm -r copr-of-fruits
-  107  rm -r copy-of-fruits
-  108  /ls
-  109  ls
-  110  mc ca* parsnip courgette vegetables/
-  111  mv *ca parsnip courgette vegetables/
-  112  ls
-  113  mv courgette/courgettes
-  
-  --------------------------------
+ 
+
   
    mkdir real
   154  ls
