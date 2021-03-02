@@ -1,0 +1,167 @@
+./fictional
+./inhabited
+./inhabited/arrakis.jpeg
+./inhabited/coruscant.jpeg
+./inhabited/cybertron.jpeg
+./inhabited/earth.jpeg
+./real
+./real/dwarf-planets
+./real/gas-giant
+./real/gas-giant/jupiter.jpeg
+./real/gas-giant/neptune.jpeg
+./real/gas-giant/saturn.jpeg
+./real/gas-giant/uranus.jpeg
+./real/terrestrial
+./real/terrestrial/mars.jpeg
+./real/terrestrial/mercury.jpeg
+./real/terrestrial/venus.jpeg
+
+
+--------------------------------
+
+ mkdir quests
+   62  pwd
+   63  ls
+   64  mkdir -p quests/shell/vegetabkes quest/shell/fruits
+   65  ls
+   66  mkdir quest/shell/remove-me quest/shell/delete-me
+   67  ls quest/shel
+   68  ls quest/shell
+   69  rmdir quests/shell/remove-me quests/shell/delete-me
+   70  rmdir quest/shell/remove-me quest/shell/delete-me
+   71  ls
+   72  ls shell
+   73  ls quest/shell
+   74  ls quests
+   75  rmdir quest
+   76  ls quets
+   77  ls quests
+   78  ls quests/shell
+   79  ls quests/shell/vegetabkes
+   80  rmdir quests/shell/vegetabkes
+   81  rmdir quests/shell
+   82  rmdir quests
+   83  ls
+   84  cd ~/quest/shell
+   85  touche apple
+   86  touch apple
+   87  touch apricot
+   88  touch carrot parsnip cauliflower courgette
+   89  ls
+   90  ls -l.bashrc
+   91  ls -l ~/.bashrc
+   92  cp apple banana
+   93  cp apple fruits/orange
+   94  ls ; ls fruits
+   95  cp ap* banana fruits
+   96  ls fruits
+   97  cp -R fruits copy-of-fruits
+   98  ls
+   99  ls /copy-of-fruits
+  100  ls copy-of-fruits
+  101  ls fruits
+  102  cp -R fruits copy-of-fruits /tmp/
+  103  ls tmp
+  104  find
+  105  rm ap* banana
+  106  rm -r copr-of-fruits
+  107  rm -r copy-of-fruits
+  108  /ls
+  109  ls
+  110  mc ca* parsnip courgette vegetables/
+  111  mv *ca parsnip courgette vegetables/
+  112  ls
+  113  mv courgette/courgettes
+  
+  --------------------------------
+  
+   mkdir real
+  154  ls
+  155  mkdir fictional
+  156  mk dir inhabited
+  157  mkdir inhabited
+  158  ls
+  159  cd real
+  160  mkdir terrestrial
+  161  mkdir gas-giant
+  162  mkdir dwarf-planets
+  163  ls
+  164  cd ..
+  165  ls
+  166  mv earth.jpeg jupited.jpeg saturn.jpeg mercury.jpeg mars.jpeg uranus.jpeg
+  167  ls real
+  168  mv earth.jpeg jupited.jpeg saturn.jpeg mercury.jpeg mars.jpeg uranus.jpeg real/
+  169  ls real
+  170  ls
+  171  mv jupiter.jpeg venus.jpeg real/
+  172  ls
+  173  ls real
+  174  ls
+  175  mv neptune.jpeg real/
+  176  ls
+  177  cd real
+  178  ls
+  179  cd ..
+  180  ls
+  181  mv cybertron.jpeg coruscant.jpeg arrakis.jpeg fictional/
+  182  ls fictional
+  183  ls
+  184  cd real
+  185  ls
+  186  mv mercury.jpeg /gas-giant
+  187  ls
+  188  mv mercury.jpeg venus.jpeg terrestrial/
+  189  ls terrestrial
+  190  mv earth.jpeg terrestrial/
+  191  mv mars.jpeg terrestrial/
+  192  mv jupiter.jpeg gas-giant/
+  193  mv saturn.jpeg gas-giant/
+  194  ls
+  195  cd ..
+  196  ls
+  197  cd fictional
+  198  ls
+  199  cd ..
+  200  ls
+  201  cd real
+  202  ls
+  203  mv neptune.jpeg uranus.jpeg gas-giant/
+  204  ls
+  205  ls gas-giant
+  206  cd real
+  207  cd ..
+  208  ls
+  209  ls fictional
+  210  cp earth.jpeg inhabited/
+  211  ls
+  212  cd real
+  213  ls
+  214  cd terrestrial
+  215  ls
+  216  cp earth.jpeg inhabited/
+  217  ls
+  218  cp earth.jpeg /inhabited/
+  219  ls
+  220  cp earth.jpeg ../../inhabited/
+  221  ls
+  222  cd ..
+  223  cd..
+  224  ls
+  225  cd ..
+  226  ls
+  227  ls inhabited
+  228  cd real
+  229  ls
+  230  cd terrestrial
+  231  ls
+  232  rm earth.jpeg
+  233  ls
+  234  cd ..
+  235  ls
+  236  cd ..
+  237  ls
+  238  fictionnal
+  239  cd fictionnal
+  240  cd fictional
+  241  ls
+  242  mv *jpeg ../inhabited/
