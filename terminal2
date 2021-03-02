@@ -1,4 +1,7 @@
 ./fictional
+./fictional/arrakis.jpeg
+./fictional/coruscant.jpeg
+./fictional/cybertron.jpeg
 ./inhabited
 ./inhabited/arrakis.jpeg
 ./inhabited/coruscant.jpeg
@@ -165,3 +168,4 @@
   240  cd fictional
   241  ls
   242  mv *jpeg ../inhabited/
+  258  cp arrakis.jpeg coruscant.jpeg cybertron.jpeg ../fictional/
